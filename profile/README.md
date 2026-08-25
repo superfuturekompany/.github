@@ -1,4 +1,4 @@
-<img src="../images/logo-superfk.png" width="150px"/>
+<img src="../images/logo_superfk_new.webp" width=""/>
 
 # Welcome to SUPERFK (SUPERFUTUREKOMPANY)
 
